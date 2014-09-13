@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Monstruo()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Monstruo\n
+comment1.params=
+comment1.target=void\ iniciarMonstruo()
+comment2.params=
+comment2.target=void\ moverMonstruo()
+comment3.params=aleph
+comment3.target=void\ modVidas(double)
+comment4.params=aleph
+comment4.target=void\ modVidasEsp(double)
+numComments=5

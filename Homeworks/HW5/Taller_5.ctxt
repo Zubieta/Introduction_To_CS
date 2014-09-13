@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Taller_5()
+comment1.params=ingreseNumero
+comment1.target=void\ Punto_1A_Multiplicar_Ax2(double)
+comment1.text=\r\n\ Ingrese\ un\ numero\ cualquiera,\ ya\ sea\ entero\ o\ decimal\ para\r\n\ Multiplicar\ el\ numero\ ingresado\ x\ 2\r\n\ Por\:\ Santiago\ Zubieta\ -\ 201110032010\ \r\n\ \r\n
+comment2.params=x\ y
+comment2.target=void\ Punto_1D_Residuo_de_2_Numeros(int,\ int)
+comment2.text=\r\n\ En\ base\ a\ un\ numero\ X\ ingresado\ y\ un\ numero\ Y\ ingresado\r\n\ Se\ halla\ el\ residuo\ de\ su\ division.\r\n\ por\:\ Santiago\ Zubieta\ -\ 201110032010\r\n\ \r\n
+comment3.params=valorCompra\ valorPagado
+comment3.target=void\ Punto_2D_Devuelta_Almacen_1(int,\ int)
+comment3.text=\r\n\ Utilize\ este\ programa\ para\ saber\ cuanto\ dinero\ es\ necesario\ devolver\r\n\ Se\ muestran\ TODOS\ los\ billetes,\ inclusive\ de\ los\ que\ se\ devuelven\ 0.\r\n\ ingrese\ valorCompra,\ e\ ingrese\ valorPagado\r\n\ por\:\ Santiago\ Zubieta\ -\ 201110032010\r\n
+comment4.params=a\ b\ c
+comment4.target=void\ Punto_3F_Comprobacion_Lados_Triangulo(double,\ double,\ double)
+comment4.text=\r\n\tDados\ tres\ n\u00FAmeros,\ a,\ b\ y\ c,\ que\ conforman\ las\ longitudes\ de\ \r\n\ \ \ tres\ segmentos\ de\ recta,\ imprima\ \u201Csi\u201D\ si\ esos\ tres\ segmentos\ de\ \r\n\ \ \ recta\ pueden\ ser\ los\ lados\ de\ un\ tri\u00E1ngulo\ o\ \u201Cno\u201D\ de\ lo\ contrario.\r\n\ \ \ Por\:\ Santiago\ Zubieta\ -\ 201110032010\r\n
+comment5.params=valorCompra\ valorPagado
+comment5.target=void\ Punto_3I_Devuelta_Almacen_2(int,\ int)
+comment5.text=\r\n\ Utilize\ este\ programa\ para\ saber\ cuanto\ dinero\ es\ necesario\ devolver\r\n\ Solamente\ se\ muestran\ los\ billetes\ que\ se\ devuelven.\r\n\ ingrese\ valorCompra,\ e\ ingrese\ valorPagado\r\n\ por\:\ Santiago\ Zubieta\ -\ 201110032010\r\n
+comment6.params=
+comment6.target=void\ Punto_4A_Numeros_Del_1_al_10()
+comment6.text=\r\n\ Por\:\ Santiago\ Zubieta\ -\ 201110032010\r\n
+comment7.params=x
+comment7.target=void\ Punto_4Q_Calcular_e_a_la_x(double)
+comment7.text=\r\n\ Este\ programa\ permite\ hallar\ el\ valor\ de\ e\ elevado\ a\ un\ numero\ x\ positivo\ cualquiera.\r\n\ Se\ utiliza\ la\ serie\ de\ taylor\ para\ hallar\ una\ aproximacion\ utilizando\ sumatorias.\r\n\ Por\:\ Santiago\ Zubieta\ -\ 201110032010\r\n\ \r\n
+comment8.params=m\ n
+comment8.target=void\ Punto_4H_Sumatoria_Anidada(int,\ int)
+comment8.text=\ Un\ programa\ que\ lee\ dos\ numeros\ m,n\ e\ imprime\ el\ resultado\ de\ x\ para\:\r\n\ x\ \=\ Sum\ desde\ i\ hasta\ n\ de\ (\ i\ +\ 5*(Sumatoria\ desde\ j\=1\ hasta\ m\ de\ (i\ +\ j))\r\n\ Por\:\ Santiago\ Zubieta\ -\ 201110032010\r\n
+numComments=9
