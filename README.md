@@ -11,4 +11,4 @@ The project is a clone of the game 'Crash Balls' for Blackberry, which has conta
 
 ###User Manual
 Click image to see the user manual
-![](https://raw2.github.com/Zubieta/Introduction_To_CS/master/Final_Project/Screenshots/Screen_Manual.png) 
+![](https://github.com/Zubieta/Introduction_To_CS/master/Final_Project/Screenshots/Screen_Manual.png) 
