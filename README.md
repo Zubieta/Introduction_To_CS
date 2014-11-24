@@ -9,7 +9,7 @@ This is the material from the first course in the CS Undergraduate Program, whic
 
 
 ###Course Project - Crashballs
-The project we were tasked to do is a clone of the game [Crash Balls](http://www.blackberryrc.com/uploads/allimg/110501/1-1105012334130-L.jpg) for BlackBerry. A key difference (or a crazy spin) I put into it is a bar at the top that gets lower a bit every time a move is done, so that the difficulty increases since the upper limit a piece can reach before losing (just like tetris) is coming down, slowly but surely.
+The project we were tasked to do is a clone of the game *[Crash Balls](http://www.blackberryrc.com/uploads/allimg/110501/1-1105012334130-L.jpg)* for BlackBerry. A key difference (or a crazy spin) I put into it is a bar at the top that gets lower a bit every time a move is done, so that the difficulty increases since the upper limit a piece can reach before losing (just like tetris) is coming down, slowly but surely.
 
-Click image to see the User Manual!
+**Click image to see the User Manual!**
 ![](https://github.com/Zubieta/Introduction_To_CS/blob/master/Final_Project/Screenshots/Screen_Manual.png?raw=true)
