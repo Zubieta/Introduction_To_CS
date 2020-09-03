@@ -1,15 +1,18 @@
 ## Santiago Zubieta
-#### EAFIT University, 2011-1
+#### Universidad EAFIT, 2011-1
 
-*'Lets conspire to reignite all the souls that would die just to feel alive'*  
--Muse, Starlight
+## Introduction to CS
+This is the material from the first course in the CS undergraduate program, which was done in **Java** for learning *Object-Oriented Programming*. There were some exercises and homework to do in **Java**, but I chose to do some of them as well in **C++** for personal learning purposes.
 
-## Introduction to CS Course Project & Homework
-This is the material from the first course in the CS Undergraduate Program, which was done in **Java** for learning *Object-Oriented Programming* notions, there were some exercises and homework to do in **Java**, but I chose to do some of then in **C++** for personal learning purposes. This was made for educational purposes and is licensed under the **MIT License**.
+This was made for educational purposes and is licensed under the **MIT License**.
 
 
 ### Course Project - Crashballs
-The project we were tasked to do is a clone of the game *[Crash Balls](http://www.blackberryrc.com/uploads/allimg/110501/1-1105012334130-L.jpg)* for BlackBerry. Some key differences (or a crazy spin) I put into it is a bar at the top that gets lower a bit every time a move is done, so that the difficulty increases since the upper limit a piece can reach before losing (just like tetris) is coming down, slowly but surely, and also added a couple of 'rails' and 'ghost images' to show the trajectory a falling pair of balls would take and where would they crash.
+The project we were tasked to do was a clone of the game *[Crash Balls](http://www.blackberryrc.com/uploads/allimg/110501/1-1105012334130-L.jpg)*, originally released for BlackBerry. Some key differences _(or a crazy spin)_ I put into it were a bar at the top that gets lower a bit every time a move is done _(and if it reaches you, it's **Game Over**)_.
 
-**Click image to see the User Manual!**
-[![](https://github.com/Zubieta/Introduction_To_CS/blob/master/Final_Project/Screenshots/Screen_Manual.png?raw=true)](https://github.com/Zubieta/Introduction_To_CS/blob/master/Final_Project/User_Manual.pdf)
+I also added a couple of 'rails' to show where the balls would fall together with 'ghost images' of their possible placement, also an animation of the balls falling whenever you decide the position you want to put them in.
+
+**Click image to see the User Manual! _(in Spanish)_**
+[![01]][01]
+
+[01]: https://i.imgur.com/Zthf2mA.png "Introduction to CS"
